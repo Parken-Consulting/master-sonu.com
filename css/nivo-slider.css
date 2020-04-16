@@ -1,0 +1,153 @@
+@font-face {
+    font-family: "ChunkFiveRegular";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Chunkfive/Chunkfive-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Chunkfive/Chunkfive-webfont.woff") format("woff"), url("../fonts/Chunkfive/Chunkfive-webfont.ttf") format("truetype"), url("../fonts/Chunkfive/Chunkfive-webfont.svg#ChunkFiveRegular") format("svg");
+}
+@font-face {
+    font-family: "tangb";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/Tangerine_Bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/Tangerine_Bold-webfont.woff") format("woff"), url("../fonts/Tangerine_Bold-webfont.ttf") format("truetype"), url("../fonts/Tangerine_Bold-webfont.svg#tangb") format("svg");
+}
+@font-face {
+    font-family: "ArcherBold";
+    font-style: normal;
+    font-weight: normal;
+    src: url("../fonts/ArcherBold/ArcherBold.eot?#iefix") format("embedded-opentype"), url("../fonts/ArcherBold/ArcherBold.woff") format("woff"), url("../fonts/ArcherBold/ArcherBold.ttf") format("truetype"), url("../fonts/ArcherBold/ArcherBold.svg#tangb") format("svg");
+}
+.nivoSlider {
+    background: url("../loading.gif") no-repeat scroll 50% 50% #FFFFFF;
+    position: relative;
+}
+.nivoSlider img {
+    display: none;
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+.nivoSlider a.nivo-imageLink {
+    border: 0 none;
+    display: none;
+    height: 100%;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 6;
+}
+.nivo-slice {
+    display: block;
+    height: 100%;
+    position: absolute;
+    z-index: 5;
+}
+.nivo-box {
+    display: block;
+    position: absolute;
+    z-index: 5;
+}
+.nivo-caption {
+    left: 0;
+    padding: 10px 30px 10px 10px;
+    position: absolute;
+    text-align: left;
+    bottom: 20px;
+    z-index: 8;
+}
+.nivo-caption .captiontext {
+    color: #FFFFFF;
+    font-size: 14px;
+    letter-spacing: 1px;
+    position: relative;
+}
+.nivo-caption .nivo-captionbg {
+    background: none repeat scroll 0 0 #017db3; /*#750122*/
+    border: 1px solid #333333;
+    border-radius: 0 10px 10px 0;
+    height: 100%;
+    left: 0;
+    opacity: 0.8;
+    filter: alpha(opacity:100);
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.nivo-caption p {
+    margin: 0;
+    padding: 0;
+}
+.nivo-caption .captiontitle {
+    color: #FFFFFF;
+    font-family: 'PT Sans Narrow',georgia,serif;
+    font-size: 27px;
+    font-style: normal;
+    letter-spacing: 1px;
+    line-height: 30px;
+
+}
+.nivo-caption a {
+    display: inline !important;
+}
+.nivo-html-caption {
+    display: none;
+}
+.nivo-directionNav a {
+    cursor: pointer;
+    position: absolute;
+    top: 45%;
+    z-index: 9;
+}
+.nivo-prevNav {
+    background: url("../images/slidePrev.png") no-repeat scroll 60% 50% #FFFFFF;
+    border: 1px solid #D3D3D3;
+    border-radius: 0 4px 4px 0;
+    filter: none;
+    height: 58px;
+    left: 0;
+    outline: medium none !important;
+    text-indent: -9999px;
+    width: 29px;
+}
+.nivo-nextNav {
+    background: url("../images/slideNext.png") no-repeat scroll 50% 50% #FFFFFF;
+    border: 1px solid #D3D3D3;
+    border-radius: 4px 0 0 4px;
+    filter: none;
+    height: 58px;
+    outline: medium none !important;
+    right: 0;
+    text-indent: -9999px;
+    width: 30px;
+}
+.nivo-prevNav:hover {
+    box-shadow: 2px 0 2px rgba(0, 0, 0, 0.6);
+}
+.nivo-nextNav:hover {
+    box-shadow: -2px 0 2px rgba(0, 0, 0, 0.6);
+}
+
+.nivo-controlNav {
+height: 12px;
+left: 740px;
+padding: 4px;
+position: absolute;
+bottom: 60px;
+z-index: 9;
+}
+.nivo-controlNav a {
+    background: url("../images/sliderNav.png") no-repeat scroll 0 0 transparent;
+    border: 0 none;
+    cursor: pointer;
+    display: block;
+    float: left;
+    height: 5px;
+    margin-bottom: 3px;
+    text-indent: -9999px;
+    width: 12px;
+}
+.nivo-controlNav a.active {
+    background-position: 0 -27px;
+}

@@ -1,0 +1,165 @@
+
+/* CSS Document */
+body {
+	background-image: url(../image/bg.jpg);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-color: #584d20;
+	margin-top:0px; margin-left:0px; margin-right:0px; margin-bottom:0px;
+	}
+
+.call{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#cfc69e;
+font-weight:bold;
+}
+.no{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#cfc69e;
+font-weight:bold;
+}
+
+.border{
+border: solid #f3f2e0 1px;
+border-radius:10px 10px 10px 10px;
+background-color:#f3f2e0;
+}
+
+.heading{
+font-family:Arial;
+color:#000000;
+font-size:14px;
+font-weight:bold;
+}
+
+.font{
+color:#4a0101;
+font-family:Arial;
+font-size:13px;
+}
+
+.f1{color:#F82566; font-family:arial; font-size:13px;}
+
+.blut{
+color:#000000;
+font-family:Verdana;
+font-size:13px;
+}
+
+.blut1{
+color:#fff;
+font-family:Verdana;
+font-size:13px;
+}
+.gallery{
+font-family:Arial;
+color:#4a0101;
+font-size:13px;
+font-weight:bold;
+}
+
+.read-more{
+font-family:Arial;
+font-size:13px;
+color:#996600;
+text-decoration:none;
+}
+
+.read-more:visited{
+font-family:Arial;
+font-size:13px;
+color:#996600;
+text-decoration:none;
+}
+
+.read-more:hover{
+font-family:Arial;
+font-size:13px;
+color:#b87c04;
+text-decoration:none;
+}
+
+.read-more:active{
+font-family:Arial;
+font-size:13px;
+color:#996600;
+text-decoration:none;
+}
+
+
+.font1{
+color:#fcffa9;
+font-family:Arial;
+font-size:16px;
+}
+
+
+.border{ border:1px #CCCCCC solid;
+background-color:#fcf3cd;
+}
+
+
+
+.head{
+font-family:Arial;
+color:#990000;
+font-size:14px;
+font-weight:bold;
+}
+
+.head1{
+font-family:Arial;
+color:#0213f9;
+font-size:12px;
+font-weight:bold;
+}
+
+.box{
+border:#999999 solid 1px;
+border-radius: 10px;}
+
+
+
+.link-footer{
+font-family:Arial;
+color:#cfc69e;
+font-size:12px;
+text-decoration:none;
+}
+
+.link-footer:visited{
+font-family:Arial;
+color:#cfc69e;
+font-size:12px;
+text-decoration:none;
+}
+
+.link-footer:hover{
+font-family:Arial;
+color:#cfc69e;
+font-size:12px;
+text-decoration:none;
+}
+
+.link-footer:active{
+font-family:Arial;
+color:#cfc69e;
+font-size:12px;
+text-decoration:none;
+}
+
+.centern{
+font-family:Arial; font-weight:bold; color:#990000; font-size:18px;}
+
+.centernn{
+font-family:Arial; font-weight:bold; color:#333333; font-size:18px;}
+
+.center{
+font-family:Arial; color:#000099; font-size:18px;}
+
+
+
+
+
