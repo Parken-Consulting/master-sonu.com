@@ -1,660 +1,532 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-
-<head>
-
-
-
-<title>Martial Arts Classes Academy Schools Clubs Gyms Coaching Training Center Lessons Weapons Styles for both Kids and Adults in Gopalganj, India</title>
-
-<meta name="description" content="World Class Training with Our International Expert JK Singh. Martial arts, Karate, Mixed Martial Arts (MMA), Muaythai, Kickboxing, Boxing, Kung-fu, Gymnastics, Self Defense and fitness classes, training Center in Gopalganj, India."/>
-
-<meta name="keywords" content="Martial arts, Martial arts training, Martial arts classes, Martial arts academy, Martial arts schools, Martial arts clubs, Martial arts schools, Martial arts gyms, Martial arts training center, Martial arts coaching, Martial arts for kids, Martial arts lessons, Kids martial arts, Martial arts weapons, Martial arts styles"> 
-
- <link href="css/style.css" rel="stylesheet" type="text/css" />
-
-<link href="css/menu.css" rel="stylesheet" type="text/css" />
-
-<link href="css/js-image-slider.css" rel="stylesheet" type="text/css" />
-
-<script src="js/js-image-slider.js" type="text/javascript"></script>
-
-</head>
-
-<body topmargin="0" bottommargin="0">
-
-<table width="950" border="0" align="center" cellpadding="0" cellspacing="0">
-
-  <tr>
-
-    <td height="105" colspan="3" valign="top" background="image/header.jpg"><table width="950" border="0" cellspacing="0" cellpadding="0">
-
-      <tr>
-
-        <td width="206" rowspan="4" align="center" valign="middle"><img src="image/logo6.png" width="206" height="121" /></td>
-
-        <td width="514">&nbsp;</td>
-
-        <td width="230" rowspan="3"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-
-          <tr>
-
-            <td colspan="6" >&nbsp;</td>
-
-          </tr>
-
-          <tr>
-
-            <td width="33%" class="call">Call Us &nbsp;&nbsp;&nbsp;&nbsp;: </td>
-
-            <td colspan="5" align="left" class="no">+91 9507-735-233 </td>
-
-          </tr>
-
-          <tr>
-
-            <td colspan="6" height="3px"></td>
-
-          </tr>
-
-          <tr>
-
-            <td class="call">Email  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: </td>
-
-            <td colspan="5" align="left" class="no">info@mastersonu.com</td>
-
-          </tr>
-
-          <tr>
-
-            <td colspan="6" height="3px"></td>
-
-          </tr>
-
-          <tr>
-
-            <td class="call">Follow us :</td>
-
-            <td width="12%"><img src="image/icon-linkedin.png" width="23" height="24" border="0" usemap="#Map3" /> </td>
-
-            <td width="12%"><img src="image/icon-facebook.png" width="23" height="24" border="0" usemap="#Map" /></td>
-
-            <td width="13%"><img src="image/icon-twitter.png" width="23" height="24" border="0" usemap="#Map2" /></td>
-
-            <td width="12%"><img src="image/blog.png" width="23" height="24" border="0" usemap="#Map4" /></td>
-
-            <td width="18%"><img src="image/youtube-icon.png" width="23" height="24" border="0" usemap="#Map8" /></td>
-
-          </tr>
-
-          <tr>
-
-            <td class="call">&nbsp;</td>
-
-            <td>&nbsp;</td>
-
-            <td>&nbsp;</td>
-
-            <td>&nbsp;</td>
-
-            <td>&nbsp;</td>
-
-            <td>&nbsp;</td>
-
-          </tr>
-
-        </table>
-
-          <map name="Map" id="Map53">
-
-            <area shape="rect" coords="2,2,21,22" href="http://www.facebook.com/KarateMixedMartialArtsKickBoxingSchool" target="_blank" />
-
-          </map>
-
-          <map name="Map2" id="Map223">
-
-            <area shape="rect" coords="2,2,22,22" href="https://twitter.com/martialartjk" target="_blank" />
-
-          </map>
-
-          <map name="Map3" id="Map323">
-
-            <area shape="rect" coords="1,2,20,20" href="http://in.linkedin.com/pub/mixed-martial-arts-mma-training-classes-in-india/30/171/300" target="_blank" />
-
-          </map>
-
-          <map name="Map4" id="Map423">
-
-            <area shape="rect" coords="3,2,22,22" href="http://mixedmartial-art.blogspot.in/" target="_blank" />
-
-          </map>
-
-          <map name="Map" id="Map53">
-
-            <area shape="rect" coords="2,2,21,22" href="http://www.facebook.com/KarateMixedMartialArtsKickBoxingSchool" target="_blank" />
-
-          </map>
-
-          <map name="Map2" id="Map223">
-
-            <area shape="rect" coords="2,2,22,22" href="https://twitter.com/martialartjk" target="_blank" />
-
-          </map>
-
-          <map name="Map3" id="Map323">
-
-            <area shape="rect" coords="1,2,20,20" href="http://in.linkedin.com/pub/mixed-martial-arts-mma-training-classes-in-india/30/171/300" target="_blank" />
-
-          </map>
-
-          <map name="Map4" id="Map423">
-
-            <area shape="rect" coords="3,2,22,22" href="http://mixedmartial-art.blogspot.in/" target="_blank" />
-
-          </map>
-
-          <map name="Map" id="Map7">
-
-            <area shape="rect" coords="2,2,21,22" href="http://www.facebook.com/KarateMixedMartialArtsKickBoxingSchool" target="_blank" />
-
-          </map>
-
-          <map name="Map2" id="Map24">
-
-            <area shape="rect" coords="2,2,22,22" href="https://twitter.com/martialartjk" target="_blank" />
-
-          </map>
-
-          <map name="Map3" id="Map34">
-
-            <area shape="rect" coords="1,2,20,20" href="http://in.linkedin.com/pub/mixed-martial-arts-mma-training-classes-in-india/30/171/300" target="_blank" />
-
-          </map>
-
-          <map name="Map4" id="Map44">
-
-            <area shape="rect" coords="3,2,22,22" href="http://mixedmartial-art.blogspot.in/" target="_blank" />
-
-          </map>
-
-          <map name="Map" id="Map52">
-
-            <area shape="rect" coords="2,2,21,22" href="http://www.facebook.com/KarateMixedMartialArtsKickBoxingSchool" target="_blank" />
-
-          </map>
-
-          <map name="Map2" id="Map222">
-
-            <area shape="rect" coords="2,2,22,22" href="https://twitter.com/martialartjk" target="_blank" />
-
-          </map>
-
-          <map name="Map3" id="Map322">
-
-            <area shape="rect" coords="1,2,20,20" href="http://in.linkedin.com/pub/mixed-martial-arts-mma-training-classes-in-india/30/171/300" target="_blank" />
-
-          </map>
-
-          <map name="Map4" id="Map422">
-
-            <area shape="rect" coords="3,2,22,22" href="http://mixedmartial-art.blogspot.in/" target="_blank" />
-
-          </map>
-
-          <map name="Map" id="Map6">
-
-            <area shape="rect" coords="2,2,21,22" href="http://www.facebook.com/KarateMixedMartialArtsKickBoxingSchool" target="_blank" />
-
-          </map>
-
-          <map name="Map2" id="Map23">
-
-            <area shape="rect" coords="2,2,22,22" href="https://twitter.com/martialartjk" target="_blank" />
-
-          </map>
-
-          <map name="Map3" id="Map33">
-
-            <area shape="rect" coords="1,2,20,20" href="http://in.linkedin.com/pub/mixed-martial-arts-mma-training-classes-in-india/30/171/300" target="_blank" />
-
-          </map>
-
-          <map name="Map4" id="Map43">
-
-            <area shape="rect" coords="3,2,22,22" href="http://mixedmartial-art.blogspot.in/" target="_blank" />
-
-          </map>
-
-          <map name="Map" id="Map52">
-
-            <area shape="rect" coords="2,2,21,22" href="http://www.facebook.com/KarateMixedMartialArtsKickBoxingSchool" target="_blank" />
-
-          </map>
-
-          <map name="Map2" id="Map222">
-
-            <area shape="rect" coords="2,2,22,22" href="https://twitter.com/martialartjk" target="_blank" />
-
-          </map>
-
-          <map name="Map3" id="Map322">
-
-            <area shape="rect" coords="1,2,20,20" href="http://in.linkedin.com/pub/mixed-martial-arts-mma-training-classes-in-india/30/171/300" target="_blank" />
-
-          </map>
-
-          <map name="Map4" id="Map422">
-
-            <area shape="rect" coords="3,2,22,22" href="http://mixedmartial-art.blogspot.in/" target="_blank" />
-
-          </map>
-
-          <map name="Map" id="Map6">
-
-            <area shape="rect" coords="2,2,21,22" href="http://www.facebook.com/KarateMixedMartialArtsKickBoxingSchool" target="_blank" />
-
-          </map>
-
-          <map name="Map2" id="Map23">
-
-            <area shape="rect" coords="2,2,22,22" href="https://twitter.com/martialartjk" target="_blank" />
-
-          </map>
-
-          <map name="Map3" id="Map33">
-
-            <area shape="rect" coords="1,2,20,20" href="http://in.linkedin.com/pub/mixed-martial-arts-mma-training-classes-in-india/30/171/300" target="_blank" />
-
-          </map>
-
-          <map name="Map4" id="Map43">
-
-            <area shape="rect" coords="3,2,22,22" href="http://mixedmartial-art.blogspot.in/" target="_blank" />
-
-          </map>
-
-          <map name="Map8" id="Map8">
-
-            <area shape="rect" coords="3,4,21,20" href="https://www.youtube.com/channel/UCW8btSfQ2v0qEljqkxvjgsg" target="_blank" />
-
-          </map>
-
-          <map name="Map" id="Map5">
-
-            <area shape="rect" coords="2,2,21,22" href="http://www.facebook.com/KarateMixedMartialArtsKickBoxingSchool" target="_blank" />
-
-          </map>
-
-          <map name="Map2" id="Map22">
-
-            <area shape="rect" coords="2,2,22,22" href="https://twitter.com/martialartjk" target="_blank" />
-
-          </map>
-
-          <map name="Map3" id="Map32">
-
-            <area shape="rect" coords="1,2,20,20" href="http://in.linkedin.com/pub/mixed-martial-arts-mma-training-classes-in-india/30/171/300" target="_blank" />
-
-          </map>
-
-          <map name="Map4" id="Map42">
-
-            <area shape="rect" coords="3,2,22,22" href="http://mixedmartial-art.blogspot.in/" target="_blank" />
-
-          </map>
-
-          <map name="Map" id="Map5">
-
-            <area shape="rect" coords="2,2,21,22" href="http://www.facebook.com/KarateMixedMartialArtsKickBoxingSchool" target="_blank" />
-
-          </map>
-
-          <map name="Map2" id="Map22">
-
-            <area shape="rect" coords="2,2,22,22" href="https://twitter.com/martialartjk" target="_blank" />
-
-          </map>
-
-          <map name="Map3" id="Map32">
-
-            <area shape="rect" coords="1,2,20,20" href="http://in.linkedin.com/pub/mixed-martial-arts-mma-training-classes-in-india/30/171/300" target="_blank" />
-
-          </map>
-
-          <map name="Map4" id="Map42">
-
-            <area shape="rect" coords="3,2,22,22" href="http://mixedmartial-art.blogspot.in/" target="_blank" />
-
-          </map>
-
-          <map name="Map" id="Map">
-
-            <area shape="rect" coords="2,2,21,22" href="http://www.facebook.com/KarateMixedMartialArtsKickBoxingSchool" target="_blank" />
-
-          </map>
-
-          <map name="Map2" id="Map2">
-
-            <area shape="rect" coords="2,2,22,22" href="https://twitter.com/martialartjk" target="_blank" />
-
-          </map>
-
-          <map name="Map3" id="Map3">
-
-            <area shape="rect" coords="1,2,20,20" href="http://in.linkedin.com/pub/mixed-martial-arts-mma-training-classes-in-india/30/171/300" target="_blank" />
-
-          </map>
-
-          <map name="Map4" id="Map4">
-
-            <area shape="rect" coords="3,2,22,22" href="http://mixedmartial-art.blogspot.in/" target="_blank" />
-
-          </map>
-
-          </td>
-
-      </tr>
-
-      <tr>
-
-        <td ><img src="image/Sansinkan-logo.png"></td>
-
-      </tr>
-
-      <tr>
-
-        <td rowspan="2">&nbsp;</td>
-
-      </tr>
-
-      <tr>
-
-        <td valign="top">&nbsp;</td>
-
-      </tr>
-
-    </table></td>
-
-  </tr>
-
-  <tr>
-
-    <td height="40" colspan="3" background="image/menu.jpg">
-
-    <ul id="menu">
-
-		<li><a href="index.html">Home</a></li>
-
-
-
-		<li>
-
-			<a href="">Our Profile</a>
-
-			<ul>
-
-				<li><a href="Official.html">Official</a></li>
-
-				<li><a href="msonu.html">Master Sonu</a></li>
-
-				<li><a href="news.php">News & Events </a></li>
-
-	      </ul>
-
-		</li>
-
-				<li><a href="photo-gallery.php">Photo Gallery</a></li>
-
-				<li><a href="Centers.html">Centers</a></li>
-
-				<li><a href="">Classes</a>
-
-				<ul>
-
-					<li><a href="wushu.html">Wushu</a></li>
-
-					<li><a href="karate.html">Karate</a></li>
-
-					<li><a href="boxing.html">Boxing</a></li>
-
-					<li><a href="kudo.html">Kudo</a></li>
-
-					<li><a href="modelgym.html">Model Gym</a></li>
-
-					<li><a href="judo.html">Judo</a></li>
-
-                    <li><a href="kick-boxing.html">Kick Boxing</a></li>
-
-					<li><a href="kubodo.html">Kubodo</a></li>
-
-					<li><a href="mixed-martial-arts.html">MMA</a></li>
-
-                    <li><a href="nanchaku.html">Nan Chaku</a></li>
-
-					<li><a href="spear.html">Spear</a></li>
-					<li><a href="Stick.html">Stick</a></li>
-                    <li><a href="Sword.html">Sword</a></li>
-                    <li><a href="selfdefence.html">Self Defence</a></li>
-                    <li><a href="kama.html">Kama, Tonfa, Sai</a></li>
-                    <li><a href="stunt.html">Stunt</a></li>
-                    <li><a href="gymnastics.html">Gymnastic</a></li>
-                    <li><a href="fighting.html">Fighting Acting</a></li>
-                    <li><a href="womenselfdefence.html">Women's Self Defence</a></li>
-                    <li><a href="yoga.html">Yoga</a></li>
-                    <li><a href="weightloss.html">Weight Loss</a></li>
-                    <li><a href="discipline.html">Discipline</a></li>
-                    <li><a href="bodyfitness.html">Body Fitness</a></li>
-				  </ul>
-
-				</li>
-
-				<li><a href="">Programes</a>
-
-					<ul>
-
-					<li><a href="junior-program-age.html">Age 3-13 Years</a></li>
-
-					<li><a href="junior-program-age-old.html">Age 14-18 Years</a></li>
-
-					<li><a href="adult-program-age-old.html">Age 18-30 Years</a></li>
-
-					<li><a href="smart-adult-program-age-old.html">Age 30 Years Above </a></li>
-
-					<li><a href="woman-special-program-age-old.html">Woman Special</a></li>
-
-					<li><a href="black-belt.html">Black Belt Traing</a></li>
-
-					<li><a href="self-defence.html">Self Defence & Fitness</a></li>
-
-					<li><a href="workshops-corporate-events.html">Workshop</a></li>
-
-					</ul>
-<li><a href="">Student Corner</a>
-<ul>
-
-
-
-					<li><a href="gopalganj.php">For Gopalganj</a></li>
-
-
-
-					<li><a href="siwan.php">For Siwan</a></li>
-
-
-
-					
-</ul></li>
-<li><a href="admin/index.html">Admin Zone</a></li>
-
-		</li>
-
-					<li><a href="conntact-us.html">Contact Us</a></li>
-
-		</ul>
-
-		</li>
-
-	</ul>    </td>
-
-  </tr>
-
+<?php
+
+error_reporting(0);
+session_start();
+
+$con=mysqli_connect("localhost","osinfoit","Shantiklp@2004","osinfoit_oas");
+ 
+if($_REQUEST["srchk"]!="")
+{
+    $id = $_REQUEST["srchk"];
+    $ra = mysqli_query($con, "select s_name from t_user_data where s_id = '$id'");
+    echo mysqli_fetch_array($ra)[0];
+    die();
+}
+
+if($_REQUEST["srchk1"]!="")
+{
+    $id1 = $_REQUEST["srchk1"];
+    $ra1 = mysqli_query($con, "select s_omr from t_usermark where s_id = '$id1'");
+    echo mysqli_fetch_array($ra1)[0];
+    die();
+}
+
+
+
+if(!isset($con))
+{
+    die("Database Not Found");
+}
+
+$txtname=$_REQUEST["txtname"];
+$txteml=$_REQUEST["txteml"];
+$txtpwd=$_REQUEST["txtpwd"];
+$txtid=$_REQUEST["txtid"];
+$omarkof=$_REQUEST["omarkof"];
+$markof=$_REQUEST["markof"];
+$txtomr=$_REQUEST["txtomr"];
+$txtmark=$_REQUEST["txtmark"];
+
+$q=mysqli_query($con,"select ad_name from t_admin where ad_id='".$_SESSION['ad']."'");
+$n=  mysqli_fetch_assoc($q);
+$adname= $n['ad_name'];
+
+
+$q1=mysqli_query($con,"select s_name from t_user_data where s_id='".$markof."'");
+$n1=  mysqli_fetch_assoc($q1);
+$usname= $n1['s_name'];
+
+
+if(isset($_REQUEST["admcreate"]))
+{
+    if($txtid == "")
+    $txtid = AdminCode();
+    if($txtpwd == "")
+    $txtpwd = AdminPass();
+    
+    $sql  = "insert into t_admin values(";
+    $sql .= "'" . $txtid . "',";
+    $sql .= "'" . $txtname . "',";
+    $sql .= "'" . $txtpwd . "',";
+    $sql .= "'" . $txteml . "')";
+  
+    
+    
+    mysqli_query($con, $sql);
+    echo "Your ID is ".$txtid;
+     
+}
+
+
+if(isset($_REQUEST["submitomr"]))
+{
+    $sql  = "insert into t_usermark (s_id,s_omr) values(";
+    $sql .= "'" . $omarkof . "',";
+    $sql .= "'" . $txtomr . "')";
+    
+    mysqli_query($con, $sql);
+    
+}
+
+
+if(isset($_REQUEST["submitmarks"]))
+{
+    
+    $sql  = "update t_usermark set s_mark=";
+    $sql .= "'" . $txtmark . "'";
+    $sql .= "where s_id='" . $markof . "'";
+    
+    mysqli_query($con, $sql);
+    
+}
+
+
+
+ function AdminCode()
+  {
+      $con = mysqli_connect("localhost", "osinfoit", "Shantiklp@2004", "oas");
+      $rs  = mysqli_query($con,"select CONCAT('AD',LPAD(RIGHT(ifnull(max(ad_id),'AD00000'),5) + 1,5,'0')) from t_admin");
+      return mysqli_fetch_array($rs)[0];
+  }
+  
+  function AdminPass()
+
+  {
+      $alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890";
+      $pass = array();
+      $alphaLength = strlen($alphabet) - 1;
+      for($i=0;$i<8;$i++)
+      {
+          $n=rand(0,$alphaLength);
+          $pass[]=$alphabet[$n];
+      }
+      return implode($pass);
+  }
   
 
-  <tr>
+?>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title></title>
+        <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
+         <link rel="stylesheet" href="bootstrap/bootstrap-theme.min.css">
+       <script src="bootstrap/jquery.min.js"></script>
+        <script src="bootstrap/bootstrap.min.js"></script>
+        <link type="text/css" rel="stylesheet" href="css/admform.css"></link>
+        <script src="https://code.jquery.com/jquery-2.1.1.min.js" type="text/javascript"></script>
+       <!--autosearch--> 
+       
+       <script type="text/javascript" src="jquery/jquery-1.8.3.min.js"></script>
+        <script type="text/javascript" src="jquery/jquery-ui-1.8.2.custom.min.js"></script> 
+       <link href="css/css.css" rel="stylesheet" type="text/css" />
+        
+    <!--search table-->       
+<script>
+$(document).ready(function(){
+	$("#search-box").keyup(function(){
+		$.ajax({
+		type: "POST",
+		url: "readID.php",
+		data:'keyword='+$(this).val(),
+		beforeSend: function(){
+			$("#search-box").css("background","#FFF url(LoaderIcon.gif) no-repeat 165px");
+		},
+		success: function(data){
+			$("#suggesstion-box").show();
+			$("#suggesstion-box").html(data);
+			$("#search-box").css("background","#FFF");
+		}
+		});
+	});
+});
 
-    <td colspan="3" bgcolor="b19860">&nbsp;</td>
-
-  </tr>
-
-  <tr>
-
-    <td colspan="3" align="center" valign="top" bgcolor="#D4D3BE"><table width="965" border="0" cellspacing="0" cellpadding="0">
-
-      <tr>
-
-        <td width="954" height="387" align="center" valign="top" bgcolor="#FFFFFF"><table width="913" border="0" cellspacing="0" cellpadding="0">
-
-          <tr>
-
-            <td height="3" colspan="3"></td>
-
-          </tr>
-
-          <tr>
-
-            <td height="10" colspan="3" align="justify" valign="top">&nbsp;</td>
-
-          </tr>
-
-          <tr>
-
-            <td colspan="3"><h2>Administrator Area</h2></td>
-            <table width="100" border="1">
-  <tbody>
-    <tr>
-      <td><a href="dbwork/index.php" target="_black"><img src="dy/photo.jpg" /></a></td>
-      <td><a href="dbwork/news.php" target="_black"><img src="dy/news.jpg" /></td>
-      <td><a href="dbwork/siwstudent.php" target="_black"><img src="dy/siwan.jpg" /></td>
-      <td><a href="dbwork/gopstudent.php" target="_black"><img src="dy/gopalganj.jpg" /></td>
-    </tr>
-   
-  </tbody>
-</table>
-
-
-          </tr>
-
-          
-
-          <tr>
+function selectid(val) {
+$("#search-box").val(val);
+$("#suggesstion-box").hide();
+}
+</script>
+        
+        
+       <script>
             
-            <td width="200" colspan="3" align="center" ><!--<img src="image/offical.jpg" alt="Martial Arts Classes Academy Schools Clubs Gyms Coaching Training Center Lessons Weapons Styles for both Kids and Adults in Gopalganj, India">--></td>
+            $(document).ready(function()
+{
+	$('#searchtb').keyup(function()
+	{
+		searchTable($(this).val());
+	});
+});
+
+function searchTable(inputVal)
+{
+	var table = $('#tblData');
+	table.find('tr').each(function(index, row)
+	{
+		var allCells = $(row).find('td');
+		if(allCells.length > 0)
+		{
+			var found = false;
+			allCells.each(function(index, td)
+			{
+				var regExp = new RegExp(inputVal, 'i');
+				if(regExp.test($(td).text()))
+				{
+					found = true;
+					return false;
+				}
+			});
+			if(found == true)$(row).show();
+				else $(row).hide();
+		}
+	});
+}
+
+            </script>
             
-          </tr>
+    <!--toggle
+            <script>
+            $(document).ready(function(){
+                $("#appr").click(function(){
+                    $("#disapp").hide();
+                    $("#appr").hide();
+                });
+                //$("#disapp").click(function(){
+                  //  $("p").show();
+                //});
+            });
+            </script>
+      -->  
 
-          
-          </table></td>
+            
+   <!--auto search-->       
+        
+      <script type="text/javascript"> 
 
-        </tr>
+$(function() {
 
-    </table></td>
+$("#search1").autocomplete({
+source: "global_search.php",
+minLength: 2,
+select: function(event, ui) {
+var getUrl = ui.item.id;
+if(getUrl != '#') {
+    
+    var kk = $("#search1").val();
+    $.ajax({
+        type : "GET",
+        cache : false,
+        url : "admin.php",
+        data : {
+            srchk : kk
+        },
+        success : function(response) {
+           // alert(response);
+            $("#searhid1").val(response);
+        }
+    });
+    
+}
+},
 
-  </tr>
+html: true, 
+//    showname showomr submitmarks
 
-  
+});
 
-  <tr>
+});
+</script>
 
-    <td width="6" height="8px" bgcolor="#D4D3BE"></td>
 
-    <td width="984" bgcolor="#D4D3BE"></td>
+<script type="text/javascript"> 
 
-    <td width="4" bgcolor="#D4D3BE"></td>
+$(function() {
 
-  </tr>
+$("#search2").autocomplete({
+source: "global_search.php",
+minLength: 2,
+select: function(event, ui) {
+var getUrl = ui.item.id;
+if(getUrl != '#') {
+    
+    var kk = $("#search2").val();
+    $.ajax({
+        type : "GET",
+        cache : false,
+        url : "admin.php",
+        data : {
+            srchk1 : kk
+        },
+        success : function(response) {
+         // alert(response);
+          $("#showomr").val(response);
+        }
+    });
+    
+}
+},
 
-  <tr>
+html: true, 
+//    showname showomr submitmarks
 
-    <td colspan="3" align="center" bgcolor="b19860"><table width="950" border="0" cellspacing="0" cellpadding="0">
+});
+
+});
+</script>
 
       
 
 
+    </head>
+    <body style="background-image:url(./images/inbg.jpg) ">
+<?php  
 
-      <tr>
+include 'adminsession.php';
 
-        <td width="4" colspan="2">&nbsp;</td>
+?>
+      <form id="admin" action="admin.php" method="post">
+            <div class="container-fluid">    
+                <div class="row">
+                  <div class="col-sm-12">
+                        <img src="images/cutm.jpg" width="100%" style="box-shadow: 0px 5px 5px #999999; "></img>
+                  </div>
+                 </div>    
+             </div>
+          
+            <div class="container-fluid" id="dmid">    
+                <div class="row">
+                  <div class="col-sm-12">
+                    
+                      
+                         <font style="color:white; font-family: Verdana;  font-size:20px;">
+                <p align="justify"><?php echo "Welcome, $adname   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Administration Cell </b>"?></p> </font>
+                  </div>
+                 </div>    
+             </div>
+          
+             <div class="container">
+                    <ul class="nav nav-tabs" >
 
-      </tr>
+                        <li class="active"><a data-toggle="tab" href="#viewapp">View Applications</a></li>
+                        <li><a data-toggle="tab" href="#adomr">Enter OMR</a></li>
+                        <li><a data-toggle="tab" href="#admarks">Enter Marks</a></li>
+                        <li><a data-toggle="tab" href="#adadmin">Add New Manager</a></li>
+                        <li><a  href="adlogout.php">Logout</a></li> 
+                        <li>  <input type="text" id="searchtb" name="searchtb" placeholder="Search" class="form-control" 
+                           style="margin-top:5px;margin-left:250px;width:300px;"></li>
+                    </ul>
+                    <div class="tab-content">
+                       <div id="viewapp" class="tab-pane fade in active">
+                         
+                          
+                           <?php
+	
 
-    </table></td>
+		$rs1 = mysqli_query($con,"select * from t_user_data");
+		
+           
+                echo '<table class="table table-striped" id="tblData">';
+                echo "<thead>";
+                echo "<tr>";
+                echo "<th>ID</th>";
+                echo "<th>NAME</th>";
+                echo "<th>DATE OF BIRTH</th>";
+                echo "<th>EMAIL ID</th>";
+                echo "<th>CONTACT NO.</th>";
+                echo "<th>SIGNUP DATE</th>";
+                echo "<tr>";
+                echo "</thead>";
+                echo "<tbody>";
+		while($ar = mysqli_fetch_array($rs1))
+                {
+               echo "<tr>";
+              
+               echo "<td><a href='viewform.php?id=".$ar[0]."'>" . $ar[0] . "</a></td>";
+                echo "<td>" . $ar[3] . "</td>";
+                echo "<td>" . $ar[2] . "</td>";
+                echo "<td>" . $ar[4] . "</td>";
+                echo "<td>" . $ar[5] . "</td>";
+                echo "<td>" . $ar[6] . "</td>";
+                
+                 echo "<td> <a href='adminac.php?id=".$ar[0]."'>
+                     <input type='button' value='Card' name='adcard' class='toggle btn btn-primary'> </a></td>";
+              
+                
+                echo "<td> 
+                   
+             <a href='appr.php?id=".$ar[0]."'> <button class='add_field_button'  style='background-color:transparent;border:none;' 
+                   name='appr' id='appr' >
+                    <img src='./images/Tick.png' width='20px'></img></button> </a> </td>";
+                
+                 echo "<td> <button class='add_field_button'  id='disapp' style='background-color:transparent;border:none;' name='disapp' >
+                     <img src='./images/cross.png' width='20px'></img>
+                </button> </td>";
+                 echo "</tr>";
+               //  echo "<td> <a href='adminac.php?id=".$ar[0]."'><input type='button' value='Admit Card' name='adcard' class='toggle btn btn-primary'> </a></td>";
+              //echo "</tr>";
+		}
+                
+                //echo "<td> <a href='viewform.php?id=".$ar[0]."'>
+                //<input type='button' value='View' name='view' class='toggle btn btn-primary'> </a></td>";
+                
+                
+                
+                
+                echo "</tbody>";
+                echo "</table>";
+	?>
 
-  </tr>
+             </div>
 
-  
+                        
+             
+            <div id="adomr" class="tab-pane fade">
+            <div class="container-fluid">
+                <div class="row">
+                   <div class="col-sm-12">
+                       <br>
+                      
+                       </div>
+                </div>
+               
+                
+                
+                <div class="row">
+                   <div class="col-sm-12">
+                       <div class="container">
+                        <center> <div class="jumbotron" style="width:50%; box-shadow: -3px 3px 10px #999999;   margin-top:10px;">
+                             <div class="row">
+                                <div class="col-sm-6">  
+                
+                                       <input type="text" name="omarkof" id="search1" class="form-control"  placeholder="Application ID" style="width:200px;"/> 
+                                        
+                                     
+                                 </div>
+                                 
+                                 <div class="col-sm-6">     
 
-  <tr>
+                                   <input type="text"  id="searhid1" value="<?php echo $usname ?>"class="form-control" style="width:200px;"/><br /> 
+                                   <input type="text" name="txtomr" placeholder="Enter OMR No." class="form-control" style="width:200px;"/>
+                                        
+                                </div> 
+                             </div><br>
+                                  <input type="submit" value="Submit" name="submitomr" class="toggle btn btn-primary"  />
+                            </div></center>
+                          </div>
+                            </div>
+                                </div>
+                            </div>
+                    </div>
+                        
+                       
+               
+            <div id="admarks" class="tab-pane fade">
+            <div class="container-fluid">
+                <div class="row">
+                   <div class="col-sm-12">
+                       <br>
+                      
+                       </div>
+                </div>
+               
+                
+                
+                <div class="row">
+                   <div class="col-sm-12">
+                       <div class="container">
+                        <center> <div class="jumbotron" style="width:50%; box-shadow: -3px 3px 10px #999999;   margin-top:10px;">
+                             <div class="row">
+                                <div class="col-sm-6">  
+                
+                                      <input type="text" name="markof" id="search2" class="form-control" placeholder="Application ID" style="width:200px;"/> 
+                                        
+                                     
+                                 </div>
+                                 
+                                 <div class="col-sm-6">     
 
-    <td colspan="3" align="center" bgcolor="b19860"><table width="950" border="0" cellspacing="0" cellpadding="0">
-
-      <tr>
-
-        <td width="112" align="center" bgcolor="#26210E"><a href="index.html" class="link-footer">Home</a></td>
-
-        <td width="9" bgcolor="#26210E"><font face="Arial" color="#cfc69e">|</font></td>
-
-        <td width="112" align="center" bgcolor="#26210E"><a href="photo-gallery.php" class="link-footer">Photo Gallery</a></td>
-
-        <td width="9" bgcolor="#26210E"><font face="Arial" color="#cfc69e">|</font></td>
-
-        <td width="112" align="center" bgcolor="#26210E"><a href="conntact-us.html" class="link-footer">Contact us</a></td>
-
-        <td width="10" bgcolor="#26210E">&nbsp;</td>
-
-        <td width="114" align="center" bgcolor="#26210E">&nbsp;</td>
-
-        <td width="10" bgcolor="#26210E">&nbsp;</td>
-
-        <td width="114" align="center" bgcolor="#26210E">&nbsp;</td>
-
-        <td width="348" bgcolor="#26210E">&nbsp;</td>
-
-      </tr>
-
-    </table></td>
-
-  </tr>
-
-  <tr>
-
-    <td colspan="3" align="center" bgcolor="b19860"><table width="950" border="0" cellspacing="0" cellpadding="0">
-
-      <tr>
-
-        <td width="190" bgcolor="#26210E">&nbsp;</td>
-
-        <td width="190" bgcolor="#26210E"><a  href="http://selfdefenceGopalganj,.weebly.com" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#26210E;"></a></td>
-
-        <td width="190" bgcolor="#26210E">&nbsp;</td>
-
-        <td width="163" bgcolor="#26210E">&nbsp;</td>
-
-        <td width="217" bgcolor="#26210E">&nbsp;</td>
-
-      </tr>
-
-    </table></td>
-
-  </tr>
-
-</table>
+                                   <input type="text" name="showomr"  id="showomr" placeholder="Omr" class="form-control" style="width:200px;"/><br>
+                                   <input type="text" name="txtmark" placeholder="Enter Marks" class="form-control" style="width:200px;"/>
+                                        
+                                </div> 
+                             </div><br>
+                                     <input type="submit" value="Submit" name="submitmarks" class="toggle btn btn-primary"  />
+                            </div></center>
+                          </div>
+                            </div>
+                                </div>
+                            </div>
+                    </div>
+                          
 
 
+                        
+                         <div id="adadmin" class="tab-pane fade">
+                        <div class="row">
+                                <div class="col-sm-12"> 
+                                   
+                                            <h3>New Manager Details</h3>
+                                            <input type="text" id="txtname"  name="txtname" class="form-control" style="width:200px;margin-left:32px;" placeholder="Name"><br><br>
+                                            <input type="text" id="txteml"  name="txteml" class="form-control" style="width:200px;margin-left:32px;" placeholder="Email ID"><br>
+                                            <input type="submit" value="Create" name="admcreate" class="toggle btn btn-primary" style="margin-left:102px;"/> <br>
+                                            <hr><hr>                          
+                                            <h3>Existing  Managers</h3>
+                                                
+                                             <?php
+	
+		
+		
+		$rs2 = mysqli_query($con,"select * from t_admin");
+		
+           
+                echo '<table class="table table-striped">';
+                echo "<thead>";
+                echo "<tr>";
+                echo "<th>ID</th>";
+                echo "<th>NAME</th>";
+                echo "<th>EMAIL ID</th>";
+                
+                echo "<tr>";
+                echo "</thead>";
+                echo "<tbody>";
+		while($ar = mysqli_fetch_array($rs2))
+		{
+                       echo "<tr>";
+                        echo "<td>" . $ar[0] . "</td>";
+			echo "<td>" . $ar[1] . "</td>";
+                        echo "<td>" . $ar[3] . "</td>";
+			
+                      echo "</tr>";
+		}
+                
+                echo "</tbody>";
+                echo "</table>";
+	?>
+                   
 
 
+                            <input type="hidden" id="txtid"  name="txtid" >
+                           <input type="hidden" id="txtpwd" name="txtpwd">
 
-</body>
-
+                           
+                                </div>
+                                </div>    
+                            </div>
+                        </div>
+                  </div>    
+             </form>                 
+    </body>
 </html>
-
